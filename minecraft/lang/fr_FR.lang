@@ -46,27 +46,3 @@ death.attack.indirectMagic.item=%1$s a été tué par %2$s avec %3$s
 death.attack.thorns=%1$s est mort(e) en essayant de tuer %2$s
 death.attack.fall=%1$s est tombé(e) de haut
 death.attack.outOfWorld=%1$s a quitté notre monde
-
-"heyfactions.teleport.spawn" Téléportation au spawn
-"heyfactions.teleport.spawn"
-"heyfactions.teleport.spawn"
-"heyfactions.suicide.cooldown", Conf.suicide_cooldown
-"heyfactions.suicide"
-"heyfactions.home.delete.null", s
-"heyfactions.home.delete", s
-"heyfactions.home.delete.error", s
-"heyfactions.tp.warp", a
-"heyfactions.tp.warp.notfound", a
-"heyfactions.msg.usage"
-"heyfactions.heal.success"
-"heyfactions.tp.usage"
-"heyfactions.tp.notfound", args[0]
-"heyfactions.tp.spam", Conf.teleport_cooldown
-"heyfactions.tp.sent", p.get(0).getName()
-"heyfactions.home.usage"
-"heyfactions.home.set.toomany", max, args[0]
-"heyfactions.home.set", args[0]
-"heyfactions.ping.notfound", args[0]
-"heyfactions.tp.delay", BullLIB.nice(delay/1000F)
-"heyfactions.tp.done", o
-"heyfactions.tp.cancelled.disconnected", o
