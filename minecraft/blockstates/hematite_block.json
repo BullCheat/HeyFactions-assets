@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "hematite_block" },
+            { "model": "hematite_block_mirrored" },
+            { "model": "hematite_block", "y": 180 },
+            { "model": "hematite_block_mirrored", "y": 180 }
+        ]
+    }
+}
