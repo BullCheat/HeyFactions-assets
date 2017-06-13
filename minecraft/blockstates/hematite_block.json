@@ -1,10 +1,13 @@
 {
     "variants": {
-        "normal": [
-            { "model": "hematite_block" },
-            { "model": "hematite_block_mirrored" },
-            { "model": "hematite_block", "y": 180 },
-            { "model": "hematite_block_mirrored", "y": 180 }
+        "variant=terrestre": [
+            { "model": "hematite_block_terrestre" }
+        ],
+        "variant=lunaire": [
+            { "model": "hematite_block_lunaire" }
+        ],
+        "variant=martienne": [
+            { "model": "hematite_block_martienne" }
         ]
     }
 }

@@ -477,7 +477,7 @@
         }
     },
     "pack": {
-        "description": "The default look of Minecraft",
+        "description": "Pack test",
         "pack_format": 3
     }
 }
