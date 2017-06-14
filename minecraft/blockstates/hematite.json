@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "variant=terrestre": [
+            { "model": "hematite_terrestre" }
+        ],
+        "variant=lunaire": [
+            { "model": "hematite_lunaire" }
+        ],
+        "variant=martienne": [
+            { "model": "hematite_martienne" }
+        ]
+    }
+}
