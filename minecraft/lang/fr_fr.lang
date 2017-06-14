@@ -3038,3 +3038,25 @@ translation.test.invalid=salut %
 translation.test.invalid2=salut %s
 translation.test.none=Bonjour tout le monde !
 translation.test.world=monde
+
+item.hematite.terrestre.name=Hématite terrestre
+item.hematite.lunaire.name=Hématite lunaire
+item.hematite.martienne.name=Hématite martienne
+
+tile.hematite_block.terrestre.name=Hématite terrestre
+tile.hematite_block.lunaire.name=Hématite lunaire
+tile.hematite_block.martienne.name=Hématite martienne
+
+
+item.hematite_terrestre_helmet.name=Casque en hématite terrestre
+item.hematite_lunaire_helmet.name=Casque en hématite lunaire
+item.hematite_martienne_helmet.name=Casque en hématite martienne
+item.hematite_terrestre_chestplate.name=Plastron en hématite terrestre
+item.hematite_lunaire_chestplate.name=Plastron en hématite lunaire
+item.hematite_martienne_chestplate.name=Plastron en hématite martienne
+item.hematite_terrestre_leggings.name=Jambières en hématite terrestre
+item.hematite_lunaire_leggings.name=Jambières en hématite lunaire
+item.hematite_martienne_leggings.name=Jambières en hématite martienne
+item.hematite_terrestre_boots.name=Bottes en hématite terrestre
+item.hematite_lunaire_boots.name=Bottes en hématite lunaire
+item.hematite_martienne_boots.name=Bottes en hématite martienne
