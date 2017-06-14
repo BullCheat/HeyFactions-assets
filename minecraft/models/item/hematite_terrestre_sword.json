@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "items/hematite_terrestre_sword"
+    }
+});
