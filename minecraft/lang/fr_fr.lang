@@ -3076,3 +3076,7 @@ item.hematite_martienne_axe.name=Hache en hématite martienne
 item.hematite_terrestre_hoe.name=Houe en hématite
 item.hematite_lunaire_hoe.name=Houe en hématite lunaire
 item.hematite_martienne_hoe.name=Houe en hématite martienne
+
+heyfactions.report.fail=Une erreur est survenue : %s
+heyfactions.report.success=Votre rapport a été envoyé avec succès (%s)
+heyfactions.report.sending=Envoi du rapport en cours…
